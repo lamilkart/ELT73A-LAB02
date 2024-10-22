@@ -1,0 +1,3 @@
+C:/Users/Aluno/Documents/Nao mexer porfavor/ELT73A Github/ELT73A-LAB02/Emptytest/build/release/CMakeFiles/Emptytest.dir
+C:/Users/Aluno/Documents/Nao mexer porfavor/ELT73A Github/ELT73A-LAB02/Emptytest/build/release/CMakeFiles/edit_cache.dir
+C:/Users/Aluno/Documents/Nao mexer porfavor/ELT73A Github/ELT73A-LAB02/Emptytest/build/release/CMakeFiles/rebuild_cache.dir
